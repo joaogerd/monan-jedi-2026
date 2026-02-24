@@ -46,7 +46,8 @@ Nenhuma fase avança sem evidência técnica documentada.
 
 Os marcos técnicos do projeto são:
 
-- [M1 – Consolidação de Ambiente](docs/milestones/M1.md)
+- [M1 – Consolidação de Ambiente](docs/milestones/M1.md)  
+  (Milestone GitHub: https://github.com/joaogerd/monan-jedi-2026/milestone/1)
 - [M2 – Baseline Determinístico MPAS](docs/milestones/M2.md)
 - [M3 – Integração 3DVar FGAT](docs/milestones/M3.md)
 - [M4 – Avaliação Formal MPAS-JEDI](docs/milestones/M4.md)
