@@ -31,3 +31,15 @@ O projeto está organizado em seis domínios técnicos paralelos:
 - M5 – Transição Controlada MPAS → MONAN
 - M6 – Consolidação MONAN-JEDI
 - M7 – Hybrid 3DVar – Prova de Conceito
+
+## Fluxo Operacional do Projeto
+
+As atividades seguem o seguinte fluxo formal:
+
+Todo → Pronto para Execução → Em Execução → Em Revisão Técnica → Em Validação → Concluído
+
+Nenhuma tarefa é considerada finalizada sem:
+
+- Evidência técnica documentada
+- Critério de aceite cumprido
+- Validação cruzada quando aplicável
