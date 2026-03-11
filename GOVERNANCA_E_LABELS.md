@@ -101,7 +101,7 @@ Reprodutibilidade e verificação cruzada.
 
 ---
 
-> [!Note]
+> [!Important]
 > Este modelo foi estabelecido para garantir:
 > - Rastreabilidade
 > - Auditoria técnica
