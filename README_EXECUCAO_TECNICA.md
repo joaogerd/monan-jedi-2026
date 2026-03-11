@@ -83,7 +83,7 @@ A conclusão de uma milestone exige:
 - Validação institucional registrada
 - Relatório versionado
 
-> [!Note]
-> Este projeto é institucional e deve ser auditável
-> A execução técnica é guiada pelo board
-> Dúvidas devem ser registradas nas próprias issues para manter histórico técnico
+> [!Important]
+> * Este projeto é institucional e deve ser auditável
+> * A execução técnica é guiada pelo board
+> * Dúvidas devem ser registradas nas próprias issues para manter histórico técnico
