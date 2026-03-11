@@ -1,19 +1,17 @@
-# MONAN-JEDI 2026 – Governança, Labels e Status
+# MONAN-JEDI 2026 - Governança, Labels e Status
 
-Este documento define formalmente o significado de cada label, status e regra institucional.
-
----
+Este documento define formalmente o significado de cada label, status e regra institucional utilizados no documento [README.md](https://github.com/GAD-DIMNT-CPTEC/monan-jedi-2026/blob/main/README.md) principal.
 
 # 1. Status
 
-## Todo
+## 📝 `Todo`
 Issue criada, mas ainda não liberada para execução.
 Dependências podem não estar resolvidas.
 
----
+## 🔵 `Pronto para Execução`
 
-## Pronto para Execução
 Critérios:
+
 - Dependências resolvidas
 - Ambiente disponível
 - Escopo fechado
@@ -21,18 +19,14 @@ Critérios:
 
 A issue pode iniciar.
 
----
-
-## Em Execução
+## 🟢 `Em Execução`
 Critérios:
 - Responsável iniciou formalmente
 - Branch criada (se aplicável)
 - Diretório estruturado
 - Trabalho ativo em andamento
 
----
-
-## Em Revisão Técnica
+## 🟡 `Em Revisão Técnica`
 Critérios:
 - Execução concluída
 - Logs arquivados
@@ -41,9 +35,7 @@ Critérios:
 
 Aguardando revisão técnica.
 
----
-
-## Em Validação
+## 🟣 `Em Validação`
 Critérios:
 - Revisão técnica realizada
 - Critérios de aceite verificados
@@ -51,63 +43,53 @@ Critérios:
 
 Validação institucional final.
 
----
-
-## Concluído
+## ✅ `Concluído`
 Critérios:
 - Critério de aceite cumprido
 - Evidência documentada
 - Issue encerrada
 - Milestone atualizada
 
----
-
 # 2. Labels
 
-## area:infra
+## 🏷️ `area:infra`
 Ambiente, Spack, compilação, reprodutibilidade.
 
-## area:mpas
+## 🏷️ `area:mpas`
 Execução determinística do MPAS.
 
-## area:monan
+## 🏷️ `area:monan`
 Execução e adaptação MONAN.
 
-## area:obs
+## 🏷️ `area:obs`
 Pipeline observacional e IODA.
 
-## area:jedi
+## 🏷️ `area:jedi`
 Configuração variacional, minimização, integração.
 
-## area:eval
+## 🏷️ `area:eval`
 Métricas, auditorias estatísticas e análises quantitativas.
 
-## area:docs
+## 🏷️ `area:docs`
 Documentação formal e relatórios consolidados.
 
----
-
-## phase:M1 ... phase:M5
+## 🏷️ `phase:M1` ... `phase:M5`
 Indicam a milestone associada.
 
----
-
-## type:build
+## 🏷️ `type:build`
 Compilação, estruturação ou adaptação técnica.
 
-## type:experiment
+## 🏷️ `type:experiment`
 Execução operacional (ciclos, 3 dias, 7 dias).
 
-## type:analysis
+## 🏷️ `type:analysis`
 Análise estatística ou variacional.
 
-## type:documentation
+## 🏷️ `type:documentation` 
 Relatórios formais e consolidação institucional.
 
-## type:validation
+## 🏷️ `type:validation`
 Reprodutibilidade e verificação cruzada.
-
----
 
 # 3. Princípios Institucionais
 
@@ -119,9 +101,9 @@ Reprodutibilidade e verificação cruzada.
 
 ---
 
-Este modelo garante:
-
-- Rastreabilidade
-- Auditoria técnica
-- Paralelismo real
-- Governança institucional
+> [!Note]
+> Este modelo foi estabelecido para garantir:
+> - Rastreabilidade
+> - Auditoria técnica
+> - Paralelismo real
+> - Governança institucional
